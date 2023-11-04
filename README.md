@@ -1,4 +1,4 @@
-## Welocome to my profile 👋
+## Welcome to my profile 👋
 #### I am passionate about game development ❤️
 
 - 💻 Computer Scientist.
