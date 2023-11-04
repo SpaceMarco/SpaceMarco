@@ -1,5 +1,13 @@
-### Hi there 👋
-I like games!
+## Welocome to my profile 👋
+#### I am passionate about game development ❤️
+
+- 💻 Computer Scientist.
+- 💬 Ask me about game development!
+- 🔭 I’m currently working on [Retribution](https://github.com/SpaceMarco/Codename_Retribution), and
+it's a horror game made with the godot game engine.
+- ⚡ Proficient with **Unity**, **Godot**
+- 🌱 Still getting used to **Unreal Engine**
+- 📫 Here's my [E-mail](spacemarco99@gmail.com)
 
 <!--
 **SpaceMarco/SpaceMarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
