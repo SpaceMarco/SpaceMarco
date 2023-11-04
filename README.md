@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-- 💻 Computer Scientist.
+- 💻 Computer Scientist
 - ❤️ Passionate about game development 
 - 🔭 Currently working on [Retribution](https://github.com/SpaceMarco/Codename_Retribution)
 - ⚡ Proficient with **Unity**, **Godot**
