@@ -2,7 +2,7 @@
 
 - 💻 Computer Scientist.
 - ❤️ Passionate about game development 
-- 🔭 I’m currently working on [Retribution](https://github.com/SpaceMarco/Codename_Retribution)
+- 🔭 Currently working on [Retribution](https://github.com/SpaceMarco/Codename_Retribution)
 - ⚡ Proficient with **Unity**, **Godot**
 - 🌱 Still getting used to **Unreal Engine**
 - 📫 Here's my [E-mail](spacemarco99@gmail.com)
